@@ -73,3 +73,20 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+
+<!-- 'gun-powder': {
+    '50': '#f5f6f9',
+    '100': '#e7e9f2',
+    '200': '#d5d8e8',
+    '300': '#b8bfd8',
+    '400': '#969fc4',
+    '500': '#7d84b4',
+    '600': '#6b6ea5',
+    '700': '#5f5f96',
+    '800': '#52517c',
+    '900': '#3a3a55',
+    '950': '#2d2d3e',
+},
+ -->
