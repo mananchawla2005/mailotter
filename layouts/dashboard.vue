@@ -53,7 +53,7 @@ onMounted(async ()=>{
                     </div>
                 </div>
             </div>
-        <div class="absolute top-0 w-full h-screen bg-black/50 z-20 text-white" v-if="isModal">
+        <div class="fixed bottom-0 right-0 left-0 top-0 w-full min-h-screen bg-black/50 z-20 text-white" v-if="isModal">
             <div class="absolute right-0 mx-auto top-1/4 left-0 w-[30rem] bg-white/80 backdrop-blur shadow-xl border-gray-200 text-black rounded-xl p-2 t">
                 <h1 class="text-center font-bold text-lg">Account Settings</h1>
                 <hr class="mx-5 border-gray-400 mt-3" />
